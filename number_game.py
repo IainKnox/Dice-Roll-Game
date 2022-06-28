@@ -47,4 +47,4 @@ def roll_dice(number_of_sides):
             print("Oh no, you lost!!")
 
 
-roll_dice(6)
+roll_dice(6)    # sets the max sides for the dice
